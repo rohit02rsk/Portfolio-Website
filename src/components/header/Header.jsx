@@ -14,10 +14,9 @@ const Header = () => {
         <CTA />
 
         <div className="me">
-          I am a highly motivated and diligent 3rd-year student pursuing a
-          bachelor's degree in Computer science and engineering with a
-          specialization in business systems with great analytical, technical,
-          and programming skills
+          Engineer. <br>
+          Programmer. <br>
+          Student. <br>
         </div>
 
         <HeaderSocials />
