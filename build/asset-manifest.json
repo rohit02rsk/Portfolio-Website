@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.bb26e986.css",
+    "main.js": "/Portfolio-Website/static/js/main.d193c0ed.js",
+    "static/media/Photo.png": "/Portfolio-Website/static/media/Photo.baf4a9fdb5cfb7edf1dc.png",
+    "static/media/CampAdvisor.png": "/Portfolio-Website/static/media/CampAdvisor.8012b6c7a83246ca7825.png",
+    "static/media/SudokuSolver.png": "/Portfolio-Website/static/media/SudokuSolver.a4734c2e8c94d0a9f76c.png",
+    "static/media/python.jpg": "/Portfolio-Website/static/media/python.3cf802588e715e85ee47.jpg",
+    "static/media/CV.pdf": "/Portfolio-Website/static/media/CV.3bf8ea9475a2f6e59ab6.pdf",
+    "static/media/flutter.png": "/Portfolio-Website/static/media/flutter.f84c8830e78cc15999fb.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.bb26e986.css.map": "/Portfolio-Website/static/css/main.bb26e986.css.map",
+    "main.d193c0ed.js.map": "/Portfolio-Website/static/js/main.d193c0ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb26e986.css",
+    "static/js/main.d193c0ed.js"
+  ]
+}
