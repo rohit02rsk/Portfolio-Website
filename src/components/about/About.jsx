@@ -38,11 +38,10 @@ const About = () => {
           </div>
 
           <p>
-            Hi! My name is Rohit and I am passionate about developing scalable
-            applications and working across the entire tech stack. I am looking
-            for a company to continue to grow my skill set while also
-            contributing to the positive outcome of exceeding the user's
-            expectations.
+            I am passionate about developing scalable applications and working
+            across the entire tech stack. I am looking for a company to 
+            continue to grow my skill set while also contributing to the 
+            positive outcome of exceeding the user's expectations.
           </p>
 
           <a href="#contact" className="btn btn-primary">
