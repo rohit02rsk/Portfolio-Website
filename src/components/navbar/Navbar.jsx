@@ -8,7 +8,7 @@ import { AiFillPhone } from "react-icons/ai";
 import { NavContext } from "../../contexts/NavContext";
 
 const Navbar = () => {
-  const { activeNav, setActiveNav } = useState(NavContext);
+  const { activeNav, setActiveNav } = useContext(NavContext);
   return (
     <nav>
       <a
